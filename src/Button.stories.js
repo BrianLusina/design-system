@@ -2,6 +2,7 @@ import React from 'react'
 import {
     storiesOf
 } from "@storybook/react";
+import { color } from "@storybook/addon-knobs/react"
 import {
     Button
 } from './Button';
@@ -19,6 +20,6 @@ storiesOf("Button", module)
         ~~~
     `
     )(() => {
-        return <Button bg="red">Hello World</Button>
+        return <Button bg={color("background", "red", "group1")}>Hello World</Button>
     })
 )
