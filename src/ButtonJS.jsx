@@ -16,8 +16,21 @@ export const Button = ({children, handleOnClick, disabled}) => {
     )
 }
 
+Button.defaultProps = {
+    disabled: false
+}
+
 Button.propTypes = {
-    children: node,
-    handleOnClick: func,
+    /**
+     * This dictates what the button will say
+     */
+    children: node.isRequired,
+    /**
+     * This dictates what the button will do when clicked
+     */
+    handleOnClick: func.isRequired,
+    /**
+     * Disables the handleOnClick function
+     */
     disabled: bool
 }
