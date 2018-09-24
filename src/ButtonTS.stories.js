@@ -5,11 +5,11 @@ import {
 import { text, boolean } from "@storybook/addon-knobs/react"
 import {
     Button
-} from './ButtonJS';
+} from './ButtonTS';
 import {wInfo} from './utils';
 
 
-storiesOf("Button in JavaScript", module)
+storiesOf("Button in TypeScript", module)
 .addWithJSX(
     "with default background", 
     wInfo(`
