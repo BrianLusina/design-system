@@ -1,1 +1,1 @@
-import "storybook-addon-js"
+import "storybook-addon-jsx/register"
