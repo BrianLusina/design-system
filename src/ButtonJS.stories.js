@@ -5,7 +5,7 @@ import {
 import { color } from "@storybook/addon-knobs/react"
 import {
     Button
-} from './Button';
+} from './ButtonJS';
 import {wInfo} from './utils';
 
 
