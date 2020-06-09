@@ -18,8 +18,8 @@
     "@types/react": "^16.9.35",
     "awesome-typescript-loader": "^5.2.1",
     "babel-core": "^6.26.3",
+    "moment": "^2.26.0",
     "babel-loader": "^8.1.0",
-    "moment": "^2.22.2",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
     "storybook-addon-jsx": "^5.4.0",
     "typescript": "^3.0.3"
