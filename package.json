@@ -22,7 +22,7 @@
     "babel-loader": "^8.1.0",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
     "storybook-addon-jsx": "^5.4.0",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.7"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
