@@ -10,7 +10,7 @@
     "prepare": "yarn run snyk-protect"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.5",
+    "@babel/core": "^7.11.0",
     "@storybook/addon-info": "4.1.18",
     "@storybook/addon-knobs": "4.0.0",
     "@storybook/addons": "4.0.0-alpha.22",
