@@ -15,7 +15,7 @@
     "@storybook/addon-knobs": "6.0.26",
     "@storybook/addons": "6.0.26",
     "@storybook/react": "^6.0.25",
-    "@types/react": "^16.9.52",
+    "@types/react": "^16.9.53",
     "awesome-typescript-loader": "^5.2.1",
     "babel-core": "^6.26.3",
     "moment": "^2.29.1",
