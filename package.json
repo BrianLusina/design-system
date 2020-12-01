@@ -10,16 +10,16 @@
     "prepare": "yarn run snyk-protect"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.7",
+    "@babel/core": "^7.12.9",
     "@storybook/addon-info": "4.1.18",
     "@storybook/addon-knobs": "6.1.0",
-    "@storybook/addons": "6.1.2",
     "@storybook/react": "^6.1.0",
+    "@storybook/addons": "6.1.9",
     "@types/react": "^17.0.0",
     "awesome-typescript-loader": "^5.2.1",
     "babel-core": "^6.26.3",
     "moment": "^2.29.1",
-    "babel-loader": "^8.2.1",
+    "babel-loader": "^8.2.2",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
     "storybook-addon-jsx": "^5.4.0",
     "typescript": "^3.9.7"
@@ -28,7 +28,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "snyk": "^1.430.0"
+    "snyk": "^1.431.2"
   },
   "snyk": true
 }
